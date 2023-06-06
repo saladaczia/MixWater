@@ -65,8 +65,9 @@ MixWater is a Swift-based application developed using the MVVM design pattern an
 
 ## Screenshots
 
-![App Screenshot](https://github.com/saladaczia/MixWater/blob/main/MixWater/Supporting%20Files/1.png?raw=true)
+![1](https://github.com/saladaczia/MixWater/assets/75745541/07e00d89-e814-4aa6-8473-fbc20bc1a08c)
 
-![App Screenshot](https://github.com/saladaczia/MixWater/blob/main/MixWater/Supporting%20Files/2.png?raw=true)
+![2](https://github.com/saladaczia/MixWater/assets/75745541/9def6ac1-795e-4845-b02a-1ca21c8754a2)
 
-![App Screenshot](https://github.com/saladaczia/MixWater/blob/main/MixWater/Supporting%20Files/3.png?raw=true)
+![3](https://github.com/saladaczia/MixWater/assets/75745541/ace5458b-e040-47f8-85a9-5df700fd16a7)
+
