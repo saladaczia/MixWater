@@ -33,7 +33,7 @@ MixWater was developed using the following technologies and tools:
 To run the MixWater application, follow these steps:
 
 
-1. Clone the WodaMix repository to your local machine.
+1. Clone the MixWater repository to your local machine.
 
 ```bash
   git clone https://github.com/saladaczia/MixWater.git
